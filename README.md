@@ -1,5 +1,5 @@
-# MeiseCSI
-MeiseBG Crop Source Investigations platform
+# CCSI
+Critical Crop Source Investigations platform
 
 ## Reproducible Infrastructure as Code
 
